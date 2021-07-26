@@ -1,0 +1,8 @@
+requests~=2.24.0
+pyttsx3~=2.90
+geocoder~=1.38.1
+selenium~=3.141.0
+pyjokes~=0.6.0
+wikipedia~=1.4.0
+psutil~=5.8.0
+PyAutoGUI~=0.9.52

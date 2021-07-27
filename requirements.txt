@@ -6,3 +6,4 @@ pyjokes~=0.6.0
 wikipedia~=1.4.0
 psutil~=5.8.0
 PyAutoGUI~=0.9.52
+SpeechRecognition~=3.8.1

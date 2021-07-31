@@ -14,16 +14,16 @@ This is a very simple CLI based voice assistant which does various work on comma
 
 # How to use?
 ```
-$ git clone https://github.com/codassassin/voice-assistant.git
+git clone https://github.com/codassassin/voice-assistant.git
 ```
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 * Change the chrome_path on line 204 in voice-assistant.py as on your system.
 * Change the executable_path on line 6 in selenium_web.py as your downloaded path of the selenium browser webdriver.
 * Run the voice-assistant.py as:
 ```
-$ python3 voice_assistant.py
+python3 voice_assistant.py
 ```
 
 ![Untitled](https://user-images.githubusercontent.com/55107082/127023689-c7d76679-d0d5-4e30-802d-8650db1b4676.png)
